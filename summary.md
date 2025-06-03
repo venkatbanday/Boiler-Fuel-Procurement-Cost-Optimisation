@@ -1,14 +1,18 @@
-# Boiler Fuel Procurement Cost Optimisation
+# Boiler-Fuel-Procurement-Cost-Optimisation
 
-**Overview:**  
-Fuel sourcing relied on traders with hidden quality and pricing inefficiencies.
+Objective:
 
-**Steps Taken:**  
-- Compared ADB vs ARB GCV bases to uncover manipulation.
-- Shifted to direct importer sourcing.
-- Enforced third-party lab testing for quality assurance.
+To reduce fuel procurement costs and address quality inconsistencies in coal supply.
 
-**Results:**  
-- Lowered per-unit fuel cost.
-- Prevented quality-related losses.
-- Strengthened supplier accountability.
+•	Highlights:
+
+• Identified quality manipulation in GCV (Gross Calorific Value) data from traders.
+
+• Transitioned to direct imports with lab-tested ARB vs ADB basis evaluation.
+
+• Enforced strict procurement controls and debit note protocols.
+
+Impact:
+
+Lowered per-unit steam generation costs and eliminated hidden quality-related losses.
+
