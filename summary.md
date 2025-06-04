@@ -1,18 +1,17 @@
-# Boiler-Fuel-Procurement-Cost-Optimisation
+Boiler Fuel Procurement Optimisation – 3F Industries, India
 
-Objective:
+Overview:
 
-To reduce fuel procurement costs and address quality inconsistencies in coal supply.
+Revamped the coal procurement strategy to improve energy efficiency and eliminate hidden losses due to quality fraud.
 
-•	Highlights:
+Key Achievements:
 
-• Identified quality manipulation in GCV (Gross Calorific Value) data from traders.
+• Identified GCV manipulation in supplier data; transitioned to direct imports with lab-tested evaluation.
 
-• Transitioned to direct imports with lab-tested ARB vs ADB basis evaluation.
+• Implemented ARB vs ADB analysis for transparency and fuel quality validation.
 
-• Enforced strict procurement controls and debit note protocols.
+• Introduced strict debit note protocols to safeguard against supplier malpractice.
 
-Impact:
+Keywords:
 
-Lowered per-unit steam generation costs and eliminated hidden quality-related losses.
-
+Procurement Strategy | GCV Analysis | Industrial Utilities | Cost Reduction | Quality Control | Fuel Supply Chain | Steam Generation Efficiency | Import Optimisation
